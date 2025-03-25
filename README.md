@@ -1,2 +1,2 @@
-# Rock Paopper Scissors
+# Rock Papper Scissors
 It's Our old and evergreen game Rock Papper Scissors Loved by Everyone
